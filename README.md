@@ -8,7 +8,7 @@ git clone https://github.com/mirzomumin/candidate-testing.git
 ```
 
 
-## Create project environment
+## Create project environment and activate it
 
 ```
 cd candidate-testing
