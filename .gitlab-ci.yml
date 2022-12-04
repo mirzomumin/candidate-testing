@@ -1,6 +1,0 @@
-run_tests:
-  image: python:3.10.5
-  before_script:
-    - apt-get update && apt-get install django
-  script:
-    - python manage.py test
