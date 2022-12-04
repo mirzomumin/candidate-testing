@@ -12,7 +12,11 @@ git clone https://github.com/mirzomumin/candidate-testing.git
 
 ```
 cd candidate-testing
-python -m venv env (Create environment with any title. In my case it is "env")
+(Create environment with any title. In my case it is "env")
+python -m venv env (for Windows)
+env\Scripts\activate (for Windows)
+virtualenv env (for Linux)
+source env/bin/activate (for Linux)
 ```
 
 ## Install necessary dependencies
