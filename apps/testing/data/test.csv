@@ -1,0 +1,34 @@
+Test Title,Test Description,Test Duration Time,Question Title,Question Point,Question Difficulty,Option Title,Option Is Correct
+0,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,What is the difference between tuple and list in python?,2,M,Tuple is an immutable data type that has square brackets in syntax and List is muttable one with parentheses.,
+0,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,What is the difference between tuple and list in python?,2,M,Tuple is a muttable data type that has square brackets in syntax and List is an immutable one with parentheses in syntax.,
+0,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,What is the difference between tuple and list in python?,2,M,Tuple is an immutable data type that has parentheses in syntax and List is muttable one with square brackets in syntax.,1
+1,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,Which method of authentication backend takes an id and returns User object?,2,M,get_user,1
+1,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,Which method of authentication backend takes an id and returns User object?,2,M,authenticate,
+1,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,Which method of authentication backend takes an id and returns User object?,2,M,validate,
+2,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,What is default caching mechanism in Django?,2,M,memcached,
+2,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,What is default caching mechanism in Django?,2,M,database,
+2,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,What is default caching mechanism in Django?,2,M,simple,1
+3,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,What all elements are changed as per locale under internationalization?,2,M,times,
+3,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,What all elements are changed as per locale under internationalization?,2,M,error messages,
+3,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,What all elements are changed as per locale under internationalization?,2,M,all of those,1
+4,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,How is an individual session identified as?,2,M,Unique 16-bit integer,
+4,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,How is an individual session identified as?,2,M,Unique 32-bit character,1
+4,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,How is an individual session identified as?,2,M,Unique 32-bit integer,
+5,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,What type of file does a sitemap refers to?,2,M,CSV file,
+5,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,What type of file does a sitemap refers to?,2,M,HTML file,
+5,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,What type of file does a sitemap refers to?,2,M,XML file,1
+6,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,Which of options listed in Admin class allows for text searchs?,1,E,search_fields,1
+6,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,Which of options listed in Admin class allows for text searchs?,1,E,search_list,
+6,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,Which of options listed in Admin class allows for text searchs?,1,E,text_search,
+7,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,Which function is used for specifying the translation string?,2,M,translate,
+7,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,Which function is used for specifying the translation string?,2,M,_,1
+7,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,Which function is used for specifying the translation string?,2,M,i18n,
+8,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,Which keyword signifies to Python that class is empty?,1,E,empty,
+8,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,Which keyword signifies to Python that class is empty?,1,E,pass,1
+8,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,Which keyword signifies to Python that class is empty?,1,E,null,
+9,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,Which regex symbol is used to represent a pattern for any digit ?,2,M,\9,1
+9,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,Which regex symbol is used to represent a pattern for any digit ?,2,M,\d,
+9,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,Which regex symbol is used to represent a pattern for any digit ?,2,M,\n,
+10,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,Which feature of HTTP allow multiple HTTP requests to be served over a single TCP connection?,3,H,Destination port,
+10,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,Which feature of HTTP allow multiple HTTP requests to be served over a single TCP connection?,3,H,Checksum,
+10,Test for Python Backend Developer,Test question to apply for job position of Python Backend Developer.,30,Which feature of HTTP allow multiple HTTP requests to be served over a single TCP connection?,3,H,Keep-Alive,1
